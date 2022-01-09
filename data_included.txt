@@ -1,0 +1,36 @@
+Data included (from the BoC) for performing the analysis:
+
+* Consumer price index (CPI), which is used as the label for the dataset
+    * Monthly data
+* Commodity price index (BCPI), including for energy, metals and minerals, forestry, agriculture, and fish
+    * Monthly data
+* Treasury bills
+    * Monthly data
+* GoC bonds (<3, 3-5, 5-10, >10)
+    * Monthly data
+* Real return bonds
+    * Monthly data
+* Canada mortgage bonds
+    * Monthly data
+* Advances to members of Payments Canada
+    * Monthly data
+* Securities purchased under resale agreements
+    * Monthly data
+* Other loans and receivables
+    * Monthly data
+* Total assets
+    * Monthly data
+* Notes in circulation
+    * Monthly data
+* Canadian dollar deposits (GoC)
+    * Monthly data
+* Canadian dollar deposits (Payments Canada)
+    * Monthly data
+* Canadian dollar deposits (other)
+    * Monthly data
+* Securities sold under repurchase agreements
+    * Monthly data
+* Capital
+    * Monthly data
+* Total liabilities and capital
+    * Monthly data
